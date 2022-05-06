@@ -1,0 +1,12 @@
+{
+	"type": "code",
+	"name": "Hunger Games",
+	"modid": "hungergames",
+	"version": "0.1.0",
+	"description" : "Description",
+	"website": "Website",
+	"authors": [ "treeman0013" ],
+	"dependencies": {
+		"game": "1.16.5"
+	}
+}
