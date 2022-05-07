@@ -3,8 +3,8 @@
 	"name": "Hunger Games",
 	"modid": "hungergames",
 	"version": "0.1.0",
-	"description" : "Description",
-	"website": "Website",
+	"description" : "Hunger Games in VintageStory",
+	"website": "https://github.com/treeman0013/HungerGames.git",
 	"authors": [ "treeman0013" ],
 	"dependencies": {
 		"game": "1.16.5"
